@@ -1,59 +1,65 @@
 
-# Amazon Web QA Project – Manual Testing Portfolio
+# Amazon QA Manual Testing Portfolio
 
-This repository contains real-world manual QA test artifacts for the Amazon.com web application. 
-The project simulates a functional test round for major features of the live platform (https://www.amazon.com).
+Welcome to my QA Testing Portfolio based on real-world manual testing of [Amazon.com](https://www.amazon.com).
 
-## 👨‍💻 Author
+This project demonstrates my QA skills through a structured test cycle: planning, execution, and bug reporting — all using live browser testing.
+
+---
+
+## 👤 About Me
 **Anjan Bhujel**  
-Quality Assurance Engineer | Manual Testing | Career Switcher from Business
+Software QA Automation Engineer at Cedargate Technologies (2019 – Present)  
+Manual + Automation QA | Business Graduate | IT Career Switcher  
+- Background in Business and Hospitality  
+- Real-world QA experience working in IT without formal IT education  
+- Passionate about learning through hands-on projects
 
 ---
 
-## 📌 Project Overview
-A hands-on manual QA testing portfolio based on Amazon's web UI. The goal is to showcase:
-- Test planning
-- Test case design
-- Bug reporting
-- Real browser-based QA practice
+## 📁 What's Included
+
+| File Name               | Description                              |
+|------------------------|------------------------------------------|
+| `Amazon_TestPlan.docx` | Test strategy, scope, and environment     |
+| `Amazon_TestCases.xlsx`| Detailed manual test cases                |
+| `Amazon_BugReport.docx`| Bugs reported during live testing         |
 
 ---
 
-## 📁 Files Included
-- ✅ `Amazon_TestCases.xlsx`: Detailed test cases with status tracking
-- 🧠 `Amazon_TestPlan.docx`: Complete test plan document
-- 🐞 `Amazon_BugReport.docx`: Sample high-priority bugs with steps and severity
-- 📘 `README.md`: This overview file
+## 🧪 Modules Tested
 
----
-
-## 🔍 Tested Features
-- Login (valid/invalid)
-- Search functionality
-- Cart operations
-- Filters & sorting logic
-- Checkout (logged-out user behavior)
-- UI responsiveness (mobile view)
+- ✅ Login (valid and invalid)
+- 🔍 Product Search
+- 🛒 Add to Cart
+- 🧾 Buy Now (redirect to login)
+- 🎯 Filter + Sorting
+- 📱 Mobile Responsiveness (via Chrome DevTools)
 
 ---
 
 ## 🛠️ Tools Used
-- Excel (Test Case Documentation)
-- Word (Test Plan & Bug Report)
-- Browser DevTools (mobile view testing)
-- GitHub (Portfolio Hosting)
+
+- Microsoft Word & Excel
+- GitHub (for portfolio)
+- Browser (Chrome + DevTools)
 
 ---
 
-## 🚀 How to Use This Portfolio
-You can:
-- Clone/download this repo for review
-- Use it during job interviews or portfolio reviews
-- Add more modules or test cases as you grow
+## 📢 Why This Project?
+
+As someone without an IT degree, I wanted to prove that:
+- QA is skill-based, not degree-based.
+- Real testing skills come from real practice.
+- This project shows my learning, dedication, and hands-on ability.
 
 ---
 
 ## 📫 Contact
-For questions or collaboration:
-- Email: anjan.bhujel@example.com
-- LinkedIn: [linkedin.com/in/anjanbhujel](https://linkedin.com/in/anjanbhujel)
+
+- 📧 Email: anjanbhujel41@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/anjanbhujel](https://linkedin.com/in/anjanbhujel)
+
+---
+
+> 💡 This portfolio helped me build confidence in a real-world QA role. I hope it inspires other non-IT learners too.
